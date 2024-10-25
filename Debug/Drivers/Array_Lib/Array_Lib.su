@@ -1,0 +1,2 @@
+../Drivers/Array_Lib/Array_Lib.c:4:13:Array_Ignore_Alphabet_Char	24	static
+../Drivers/Array_Lib/Array_Lib.c:16:10:Array_Find_Max_Value	24	static
